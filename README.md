@@ -2,7 +2,7 @@
 <h3 align="center">A quality-driven Software Engineer, Providing automation solutions to the business problem by understanding the system architecture.</h3>
 
 
-- 🔭 I’m currently working on **Mocha, Chai, Selenium & RestAssured**
+- 🔭 I’m currently working on **Mocha, Chai, Playwright, Selenium & RestAssured**
 
 - 🌱 I’m currently brushing up my skills in **Data Structures & Algorithms**
 
