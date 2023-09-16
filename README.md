@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nataraj-Velmurugan](https://github.com/Nataraj-Velmurugan)
 
-- 💬 Ask me about **Java, Nodejs, Selenium, Rest Assured, Mocha, Chai, Express, React, MySQL, mongoDB**
+- 💬 Ask me about **Java, Nodejs, Playwright, Selenium, Rest Assured, Mocha, Chai, Express, React, MySQL, mongoDB**
 
 - 📫 How to reach me **raajei50@gmail.com**
 
