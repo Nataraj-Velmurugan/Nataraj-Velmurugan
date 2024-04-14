@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nataraj Velmurugan</h1>
-<h3 align="center">A quality-driven Software Engineer, Providing automation solutions to the business problem by understanding the system architecture.</h3>
+<h3 align="center">A quality-driven Senior Software Engineer, Providing automation solutions to the business problem by understanding the system architecture.</h3>
 
 
 - 🔭 I’m currently working on **Mocha, Chai, Playwright, Selenium & RestAssured**
