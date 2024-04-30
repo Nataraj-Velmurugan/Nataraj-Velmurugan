@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **raajei50@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/natarajvelm/)
+- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/natarajvelm/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
