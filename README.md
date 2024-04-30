@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with **finding new positions in Product based organisations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nataraj-Velmurugan](https://github.com/Nataraj-Velmurugan)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Nataraj-Velmurugan)
 
 - 💬 Ask me about **Java, Nodejs, Playwright, Selenium, Rest Assured, Mocha, Chai, Express, React, MySQL, mongoDB**
 
 - 📫 How to reach me **raajei50@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/natarajvel/](https://www.linkedin.com/in/natarajvelm/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/natarajvelm/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
